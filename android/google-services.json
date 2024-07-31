@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664020042505",
+    "project_id": "gastrolley",
+    "storage_bucket": "gastrolley.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664020042505:android:b22e2d4a0494690cedc9d8",
+        "android_client_info": {
+          "package_name": "com.example.gastrolley"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUdMIAXZNIdvU2XShTOeCjtH_MKjWWFoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
